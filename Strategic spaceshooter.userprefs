@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\VR\Ludo\GitHub\GolfVR\Assets\ClubsBagScript.cs">
+    <Files>
+      <File FileName="..\..\VR\Ludo\GitHub\GolfVR\Assets\Game\Scripts\ClubScript.cs" Line="13" Column="31" />
+      <File FileName="..\..\VR\Ludo\GitHub\GolfVR\Assets\ClubsBagScript.cs" Line="28" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
